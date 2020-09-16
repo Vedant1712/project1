@@ -1,0 +1,50 @@
+#overflow{
+  overflow-y: hidden;
+}
+
+/* https://res.cloudinary.com/people-matters/image/upload/w_624,h_351,c_scale/v1393503512/4300.jpg */
+
+/* https://images.indianexpress.com/2020/05/Ganguly-1200.jpg */
+
+/* https://akm-img-a-in.tosshub.com/indiatoday/images/story/201701/kapil-dev-647_010616110216.jpg */
+
+.box{
+  width: 1000px;
+  border: 2px solid gray;
+  margin-left: 17%;
+  margin-top: 5%;
+  padding: 20px;
+}
+
+h2{
+  margin-left: 3%;
+}
+
+p{
+  margin-left: 5%;
+  font-size: 1.3rem;
+}
+
+#left:hover{
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+}
+
+#mid:hover{
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+}
+
+#right:hover{
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+}
+
+.text-color{
+  color: #d9d9d9;
+}
+
+.increase{
+  border: 2px solid skyblue;
+}
+
+.translate:hover{
+  transform: translateY(-20px);
+}
